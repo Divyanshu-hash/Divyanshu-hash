@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Divyansu Giri</h1>
+<h1 align="center">Hi there 👋, I'm Divyansu Giri</h1>
 <h3 align="center">🚀 AI/ML Engineer | Python Developer | Web Developer | Open Source Contributor</h3>
 
 <p align="center">
@@ -7,24 +7,25 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-🎓 B.Tech (AI & Data Engineering) @ **IIIT Kota**  
-💡 Exploring **AI/ML, Deep Learning, Computer Vision**, and **Web Development**  
-🛠️ Building real-world projects with **AI + Web **  
-🌍 Based in **Prayagraj, Uttar Pradesh, India**
-
----
-
-### 🚀 Current Focus
-
-- 🔭 Working on: **Face Recognition System**, **YouTube RAG Bot Extension**
-- 🌱 Learning: **HuggingFace Transformers**, **YOLOv8**, **Edge AI**
-- 👯 Collaborating on: **AI + Web**, **Hackathons**, and **Open Source**
+🎓 Pursuing B.Tech in **AI & Data Engineering** from [IIIT Kota](https://iiitkota.ac.in)  
+🌍 Based in **Prayagraj, Uttar Pradesh, India**  
+🧪 Exploring **AI/ML, Deep Learning, Computer Vision**, and **Web Development**  
+🛠️ Building practical projects with the **AI + Web** combo  
+🌱 Lifelong learner & tech enthusiast
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Current Focus
+
+- 🔭 Projects: `Face Recognition System`, `YouTube RAG Bot Extension`
+- 📖 Learning: `HuggingFace Transformers`, `YOLOv8`, `Edge AI`
+- 🤝 Collaborating on: AI + Web Projects, Open Source, Hackathons
+
+---
+
+## 🛠️ Tech Stack
 
 ```python
 Languages:       Python, C++
@@ -34,14 +35,17 @@ AI/ML Tools:     TensorFlow, PyTorch, OpenCV, HuggingFace
 Dev Tools:       Git, GitHub, VS Code
 ```
 
-### 🔧 Tools I Use
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,fastapi,django,opencv,tensorflow,pytorch,html,css,js,git,github,vscode,linux" /> </p>
+## 🔧 Tools I Use
 
-### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Divyanshu-hash&show_icons=true&theme=tokyonight" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu-hash&theme=tokyonight" width="47%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-hash&layout=compact&theme=tokyonight" width="47%" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,django,tensorflow,pytorch,opencv,html,css,js,git,github,vscode,linux" /> </p>
 
-### 📫 Let’s Connect!
-<p> <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Divyanshu-hash"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a> </p>
+## 📈 GitHub Stats
 
-### 🙏 Thanks for visiting my profile!
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Divyanshu-hash&style=flat-square&color=brightgreen" alt="Profile Views" /> </div>
+<p align="center"> <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Divyanshu-hash&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu-hash&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-hash&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
+## 📫 Let’s Connect
+<p align="center"> <a href="mailto:rishugiri056@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/divyanshu-giri-944b80332"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Divyanshu-hash"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
+
+## 🙏 Thanks for Visiting!
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Divyanshu-hash&style=flat-square&color=brightgreen" alt="Profile Views" /> </p> ```
