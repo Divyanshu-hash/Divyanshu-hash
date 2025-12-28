@@ -41,22 +41,25 @@ Dev Tools:       Git, GitHub, VS Code
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Divyanshu-hash&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyanshu-hash&show_icons=true&theme=tokyonight&hide_border=true" width="47%" alt="Divyanshu's GitHub Stats" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-hash&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+</p>
 
-  <!-- GitHub Streak temporarily removed due to outage -->
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-hash&layout=compact&theme=tokyonight&hide_border=true" width="47%" alt="Top Languages" />
-
-</div>
-
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu-hash&theme=tokyo-night&hide_border=true"
+  />
+</p>
 
 ## 📫 Let’s Connect
 <p align="center"> <a href="mailto:rishugiri056@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/divyanshu-giri-944b80332"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Divyanshu-hash"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
