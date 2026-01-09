@@ -44,20 +44,25 @@ Dev Tools:       Git, GitHub, VS Code
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Divyanshu-hash&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
+    width="45%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Divyanshu-hash&theme=tokyonight&hide_border=true"
+    width="45%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu-hash&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-hash&layout=compact&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu-hash&theme=tokyo-night&hide_border=true"
+    width="45%"
   />
 </p>
 
