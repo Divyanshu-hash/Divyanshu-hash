@@ -2,6 +2,10 @@
 <h3 align="center">🚀 AI/ML Engineer | Python Developer | Web Developer | Open Source Contributor</h3>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Divyanshu-hash/Divyanshu-hash/main/banner.png" alt="Profile Banner" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0AE2F2&center=true&vCenter=true&width=800&lines=Passionate+AI%2FML+Engineer;FastAPI+%7C+Django+Backend+Developer;Open+Source+Contributor+%7C+Tech+Explorer;Computer+Vision+%7C+Edge+AI+%7C+Generative+AI;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
