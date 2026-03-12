@@ -32,32 +32,32 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Frontend Development
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### ⚙️ Backend Development
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=django,fastapi,python,cpp" />
 </p>
 
 ### ☁️ Cloud & DevOps
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,aws,gcp" />
 </p>
 
 ### 🗄️ Databases
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 ### 🤖 Machine Learning & Data Science
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
 ### 🔧 Development Tools & Platforms
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
