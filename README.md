@@ -33,33 +33,47 @@
 
 ### 👨‍💻 Frontend Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&perline=6" />
 </p>
+
+
 
 ### ⚙️ Backend Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=django,fastapi,python,cpp" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,python,cpp&perline=4" />
 </p>
+
+
 
 ### ☁️ Cloud & DevOps
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp" />
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp&perline=3" />
 </p>
+
+
 
 ### 🗄️ Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2" />
 </p>
+
+
 
 ### 🤖 Machine Learning & Data Science
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4" />
 </p>
+
+
 
 ### 🔧 Development Tools & Platforms
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" />
+<img src="https://cdn.simpleicons.org/huggingface" height="48"/>
 </p>
+
+---
+
 
 ## 📈 GitHub Stats
 
