@@ -43,7 +43,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -72,6 +72,8 @@
 
 </div>
 
+
+
 <h3 align="center">⚙️ Backend Development</h3>
 
 <p align="center">
@@ -81,6 +83,8 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
+
+
 <h3 align="center">☁️ Cloud & DevOps</h3>
 
 <p align="center">
@@ -89,12 +93,16 @@
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
+
+
 <h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+
 
 <h3 align="center">🔧 Development Tools</h3>
 
@@ -105,6 +113,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
+
 
 ---
 
