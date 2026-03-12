@@ -31,17 +31,35 @@
 
 ## 🛠️ Tech Stack
 
-```python
-Languages:       Python, C++
-Frameworks:      FastAPI, Django
-Frontend:        HTML, CSS, JavaScript
-AI/ML Tools:     TensorFlow, PyTorch, OpenCV, HuggingFace
-Dev Tools:       Git, GitHub, VS Code
-```
+### 👨‍💻 Frontend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-## 🔧 Tools I Use
+### ⚙️ Backend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=django,fastapi,python,cpp" />
+</p>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,django,tensorflow,pytorch,opencv,html,css,js,git,github,vscode,linux" /> </p>
+### ☁️ Cloud & DevOps
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### 🤖 Machine Learning & Data Science
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+### 🔧 Development Tools & Platforms
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ## 📈 GitHub Stats
 
