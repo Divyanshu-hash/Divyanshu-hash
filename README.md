@@ -11,13 +11,20 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me  
 
-🎓 Pursuing B.Tech in **AI & Data Engineering** from [IIIT Kota](https://iiitkota.ac.in)  
-🌍 Based in **Prayagraj, Uttar Pradesh, India**  
-🧪 Exploring **AI/ML, Deep Learning, Computer Vision**, and **Web Development**  
-🛠️ Building practical projects with the **AI + Web** combo  
-🌱 Lifelong learner & tech enthusiast
+🎓 AI & Data Engineering Undergraduate @ **IIIT Kota**  
+🌍 Prayagraj, India  
+
+🚀 Building at the intersection of **AI × Web Development**  
+🧠 Exploring: **Machine Learning | Deep Learning | Computer Vision**  
+
+💻 Turning ideas into real-world applications  
+🛠️ Focused on practical projects & scalable solutions  
+
+📚 Learning every day | Growing every day  
+
+✨ *Curious mind. Builder mindset.*  
 
 ---
 
