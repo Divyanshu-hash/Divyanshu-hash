@@ -13,21 +13,35 @@
 
 ## 🧠 About Me  
 
-🎓 AI & Data Engineering Undergraduate @ **IIIT Kota**  
-🌍 Prayagraj, India  
-
-🚀 Building at the intersection of **AI × Web Development**  
-🧠 Exploring: **Machine Learning | Deep Learning | Computer Vision**  
-
-💻 Turning ideas into real-world applications  
-🛠️ Focused on practical projects & scalable solutions  
-
-📚 Learning every day | Growing every day  
-
-✨ *Curious mind. Builder mindset.*  
+🎓 **AI & Data Engineering Undergraduate** @ IIIT Kota  
+🌍 **Location:** Prayagraj, India  
 
 ---
 
+🚀 **What I Do**
+- Build intelligent systems using **AI/ML & Deep Learning**
+- Develop **AI + Web integrated applications**
+- Work on **real-world problem solving projects**
+
+---
+
+🧠 **Tech Interests**
+- Machine Learning  
+- Deep Learning  
+- Computer Vision  
+- Full Stack Development  
+
+---
+
+⚡ **Current Focus**
+> Building scalable applications that combine **AI + Web**
+
+---
+
+📈 **Philosophy**
+> *Learn. Build. Improve. Repeat.*  
+
+✨ *Curious mind. Builder mindset.*
 
 
 <h2 align="center">🛠️ Tech Stack</h2>
