@@ -21,13 +21,7 @@
 
 ---
 
-## 🚀 Current Focus
 
-- 🔭 Projects: `Face Recognition System`, `YouTube RAG Bot Extension`
-- 📖 Learning: `HuggingFace Transformers`, `YOLOv8`, `Edge AI`
-- 🤝 Collaborating on: AI + Web Projects, Open Source, Hackathons
-
----
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
