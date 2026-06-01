@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI/ML Engineer | Python Developer | Web Developer | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Divyanshu-hash/Divyanshu-hash/main/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d47526b6147647a61575669626e686b5a6e5679637a6c6c59574e31634846355a6d773463586f31593268774d546c6b616a567063695.gif" alt="Profile Banner width="100%"" />
+  <img src="https://raw.githubusercontent.com/Divyanshu-hash/Divyanshu-hash/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Banner width="100%"" />
 </p>
 
 <p align="center">
